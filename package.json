@@ -1,0 +1,1 @@
+{"description":"Monday Reviewed in One Line — one-line review of my own Monday, under 200 characters","license":"MIT","main":"main.ts","name":"makefun-monday-reviewed-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"2.0.0"}
